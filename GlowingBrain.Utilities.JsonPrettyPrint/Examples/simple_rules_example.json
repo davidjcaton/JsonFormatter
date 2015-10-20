@@ -1,0 +1,13 @@
+[
+  {
+    "PropertyPattern": ".*",
+    "Rules": {
+      "NewLineBeforeArrayStart": false,
+      "NewLineBeforeArrayEnd": false,
+      "NewLineBeforeObjectEnd": false,
+      "NewLineBeforeProperty": false,
+      "NewLineBeforeArrayItem": false,
+      "IncludePropertiesWithNullValues": false
+    }
+  }
+]
